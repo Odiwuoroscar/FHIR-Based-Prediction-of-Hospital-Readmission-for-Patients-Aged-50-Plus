@@ -4,19 +4,7 @@
 
 # 📚 Literature Review
 
-Research into AI for hospital readmission prediction has shown promising results:
-
-Michailidis et al. achieved an AUC of 0.78 using Random Forest models with administrative and clinical data.
-
-Mahmoudi et al. reviewed 41 studies showing that machine learning often outperforms traditional statistical methods.
-
-Integration of wearable device data (e.g., heart rate entropy) has enhanced prediction accuracy.
-
-Saati et al. emphasized that reducing unnecessary ED visits and readmissions could significantly lower costs and improve outcomes.
-
-AI's role in healthcare continues to expand, offering automation and insights across clinical tasks.
-
-This project builds on these advances, applying the FHIR standard to enable scalable, interoperable prediction pipelines.
+Research into AI for hospital readmission prediction has shown promising results: Michailidis et al. achieved an AUC of 0.78 using Random Forest models with administrative and clinical data. Mahmoudi et al. reviewed 41 studies showing that machine learning often outperforms traditional statistical methods. Integration of wearable device data (e.g., heart rate entropy) has enhanced prediction accuracy. Saati et al. emphasized that reducing unnecessary ED visits and readmissions could significantly lower costs and improve outcomes. AI's role in healthcare continues to expand, offering automation and insights across clinical tasks. This project builds on these advances, applying the FHIR standard to enable scalable, interoperable prediction pipelines.
 
 # 🎯 Problem Statement
 
